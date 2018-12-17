@@ -1,2 +1,3 @@
 <?php
-  ehco 123;
+  echo 123;
+  echo:'大白傻屌';
